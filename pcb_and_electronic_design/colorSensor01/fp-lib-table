@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TPS54331DDAR")(type "KiCad")(uri "D:/WORKS/KiCadWorkspace/SpecificLibrariesForProjects/TPS54331DDAR/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "IRFR024PBF")(type "KiCad")(uri "D:/WORKS/KiCadWorkspace/SpecificLibrariesForProjects/IRFR024PBF/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "OLEDI2C")(type "KiCad")(uri "D:/WORKS/KiCadWorkspace/SpecificLibrariesForProjects/OLEDI2C/SSD1306.pretty")(options "")(descr ""))
+  (lib (name "TCS34725FN")(type "KiCad")(uri "D:/WORKS/KiCadWorkspace/SpecificLibrariesForProjects/TCS34725FN/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "M8_T4040014041-000")(type "KiCad")(uri "D:/WORKS/KiCadWorkspace/SpecificLibrariesForProjects/M8_T4040014041-000/KiCADv6")(options "")(descr ""))
+  (lib (name "M8S-04PMMR-SF8001")(type "KiCad")(uri "D:/WORKS/KiCadWorkspace/SpecificLibrariesForProjects/M8S-04PMMR-SF8001/KiCADv6")(options "")(descr ""))
+)
